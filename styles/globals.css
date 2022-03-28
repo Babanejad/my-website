@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+    font-family: "IranSans";
+    src: url("/font/IranSans.woff");
+}
+
+@tailwind utilities;
+
