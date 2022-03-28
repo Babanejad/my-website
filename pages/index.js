@@ -40,7 +40,7 @@ export default function Home() {
         </span>
         <div className="bg-gray-100  p-4 mx-3 xl:mx-auto  h-full border shadow-lg rounded-md xl:w-6/12 hover:shadow-lg hover:shadow-slate-300 hover:transition-all">
           <p className="text-gray-600 text-xs lg:text-sm leading-relaxed text-justify">
-          سلام ، من برنامه نویس وب هستم که از سال 1391 کارم رو به صورت حرفه ای شروع کردم و پروژه های متعددی رو در مراکز دولتی و کارخانجات و شرکت های خصوصی انجام دادم و شاید بتونم خودم رو یک برنامه نویس <span className="font-extrabold capitalize">full stack</span>  معرفی کنم.
+          سلام ، من برنامه نویس وب هستم که از سال 1391 کارم رو به صورت حرفه ای شروع کردم و پروژه های متعددی رو در مراکز دولتی و کارخانجات و شرکتهای خصوصی انجام دادم و شاید بتونم خودم رو یک برنامه نویس <span className="font-extrabold capitalize">full stack</span>  معرفی کنم.
             
           </p>
         </div>
